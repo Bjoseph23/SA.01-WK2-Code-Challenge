@@ -22,14 +22,19 @@ You use git clone to be able to download the documents in the GitHub
 
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
-Get a free API Key at https://github.com/Bjoseph23/SA.01-WK2-Code-Challenge
+Get a free API Key at:
+```
+ https://github.com/Bjoseph23/SA.01-WK2-Code-Challenge
 
+ ```
 Clone the repo
-
+```
 git clone https://github.com/Bjoseph23/SA.01-WK2-Code-Challenge
-
-And Lastly, install relevent files with: npm install
-
+```
+And Lastly, install relevent files with:
+```
+ npm install
+```
 ## Installation Requirements
 Git
 
