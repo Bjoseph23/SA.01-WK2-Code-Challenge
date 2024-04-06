@@ -17,7 +17,7 @@ The file called arrayNumbers.js contains a program written in javascript that  a
 
 The file called primeNumbers.js contains a program written in javascript that whose major task takes an array of numbers as input and returns a new array containing only the prime numbers from the original array.For example if you provide an array [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] it should return an array [2, 3, 5, 7].
 
-## Installation
+## Installation and Project Setup
 You use git clone to be able to download the documents in the GitHub
 
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
