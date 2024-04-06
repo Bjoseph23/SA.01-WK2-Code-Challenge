@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')({ sigint: true }); // Import prompt-sync for user input
+const prompt = require('prompt-sync')({ sigint: true }); 
 
 const numbers=[]
 numbers[0] = (prompt("Enter the first number: "));
