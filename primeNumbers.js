@@ -8,6 +8,6 @@ numbers[3] = (prompt("Enter the fourth number: "));
 numbers[4] = (prompt("Enter the fifth number: "));
 numbers[5] = (prompt("Enterg the sixth number: "));
 
-
+// was not sure which math to use to get the prime numbers out of the string
 
 console.log(numbers)
