@@ -6,7 +6,7 @@ function swapCase(str) {  // Declare our function that will itterate through our
   for (let i = 0; i < str.length; i++) {
     const char = str[i]; // Get the current character and use i as an index to access the character at that specific position within the string 
     if (char === char.toUpperCase()) {
-        // look at each individual character, check the case, and swapp it to its opposite case and add it to our array called swapped string
+        // look at each individual character, check the case, and swapp it to its opposite case and add it to our array called swappedString
       swappedString.push(char.toLowerCase());
     } else {
       swappedString.push(char.toUpperCase());
